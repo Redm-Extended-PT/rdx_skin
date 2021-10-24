@@ -1,15 +1,16 @@
-## skin
+## rdx_skin
+![RedM Extended](https://cdn.discordapp.com/attachments/842208552927100938/886036939499790416/skins.png)
 
-[skin] System for rdx_core
+[rdx_skin] System for rdx_core
 
 ## Requirements
 -[RDX Core](https://github.com/Redm-Extended-PT/rdx_core)
 
 ## How to install
-* Download the lastest version of skin
-* Copy and paste ```skin``` folder to ```resources/skin```
+* Download the lastest version of rdx_skin
+* Copy and paste ```rdx_skin``` folder to ```resources/rdx_skin```
 * Insert the .sql file into your database.
-* Add ```ensure skin``` to your ```server.cfg``` file
+* Add ```ensure rdx_skin``` to your ```server.cfg``` file
 * Now you are ready!
 
 ## How to use
@@ -17,9 +18,6 @@ You can use:
 
 /loadskin -to load skin
 /skin -to open skin menu
-
-
- Add ```skin``` in server.cfg
 
 ## Credits
 

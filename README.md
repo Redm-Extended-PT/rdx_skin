@@ -23,7 +23,7 @@ You can use:
 
 [Ktos93](http://github.com/Ktos93)
 
-[amakuu](http://github.com/amakuu) - Thanks for the skin look and files with components
+[amakuu](http://github.com/amakuu)
 
 [Naikzer](https://github.com/Naikzer) 
 

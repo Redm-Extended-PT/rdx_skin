@@ -21,7 +21,7 @@ You can use:
 
 ## Credits
 
-[Ktos93](http://github.com/Ktos93)
+[imThaku](https://github.com/imThaku)
 
 [amakuu](http://github.com/amakuu)
 

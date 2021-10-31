@@ -6,6 +6,8 @@
 ## Requirements
 -[RDX Core](https://github.com/Redm-Extended-PT/rdx_core)
 
+-[rdx_identity](https://github.com/Redm-Extended-PT/rdx_identity)
+
 ## How to install
 * Download the lastest version of rdx_skin
 * Copy and paste ```rdx_skin``` folder to ```resources/rdx_skin```

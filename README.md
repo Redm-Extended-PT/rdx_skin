@@ -1,7 +1,7 @@
 ## rdx_skin
 ![rdx_skin](https://cdn.discordapp.com/attachments/842208552927100938/886036939499790416/skins.png)
 
-[rdx_skin] System for rdx_core
+A Skin System for rdx_core
 
 ## Requirements
 -[RDX Core](https://github.com/Redm-Extended-PT/rdx_core)
